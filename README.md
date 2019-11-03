@@ -1,4 +1,4 @@
-# Interesting-libraries-for-Front-end
+# Interesting libraries for Front-end motivations
 
 A list of libraries for front end, helps developers to have motivation in the visual design.
 
